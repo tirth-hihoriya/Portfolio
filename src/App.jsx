@@ -32,7 +32,7 @@ const App = () => {
       <Testimonials />
       <Contact />
       <footer className="p-3 text-center">
-        <p>Made with ❤️ by YashTelkhade © All CopyRights Reserved 2022</p>
+        <p>Made with ❤️ by Tirth Hihoriya © All CopyRights Reserved 2023</p>
       </footer>
     </div>
   );

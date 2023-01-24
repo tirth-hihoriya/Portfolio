@@ -212,7 +212,7 @@ export const content = {
       {
           "_id": "c5de9522-78fe-4cf9-9228-73be399b0115",
           "_type": "works",
-          "codeLink": "https://github.com/YashTelkhade/HacksforHumanity",
+          // "codeLink": "https://github.com/YashTelkhade/HacksforHumanity",
           "description": "An end to end application created with MERN Stack, Tailwind CSS and Material UI with authentication. Here we aim to incentivize the volunteering process",
           "imgUrl": "https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q2/project-planning-header@2x.png",
           "projectLink": "https://revitalize.netlify.app/",
