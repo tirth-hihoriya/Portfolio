@@ -20,10 +20,10 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
-import person_project from "./assets/images/projects/person.png";
+import project1 from "./assets/images/Projects/img1.png";
+import project2 from "./assets/images/Projects/img2.png";
+import project3 from "./assets/images/Projects/img3.png";
+import person_project from "./assets/images/Projects/person.png";
 
 import tirthpatel from "./assets/images/Testimonials/tirthpatel.jpg";
 import yashtelkhade from "./assets/images/Testimonials/yashtelkhade.jpg";
