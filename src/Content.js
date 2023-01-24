@@ -68,7 +68,7 @@ export const content = {
     title: "AI/ML Enthusiast",
     firstName: "TIRTH",
     LastName: "HIHORIYA",
-    btnText: "Hire Me",
+    btnText: "Resume",
     image: Hero_person,
     hero_content: [
       {
