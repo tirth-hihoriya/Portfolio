@@ -65,7 +65,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "AI/ML Enthusiast",
+    title: "Software Developer | AI/ML Enthusiast",
     firstName: "TIRTH",
     LastName: "HIHORIYA",
     btnText: "Resume",
@@ -77,7 +77,7 @@ export const content = {
       },
       {
         count: "10+",
-        text: "Projects Worked in my career",
+        text: "Projects Worked in my Software Development career",
       },
     ],
   },
