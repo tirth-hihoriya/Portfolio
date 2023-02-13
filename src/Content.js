@@ -140,25 +140,25 @@ export const content = {
       },
     ],
   },
-  // Projects: {
-  //   title: "Projects",
-  //   subtitle: "MY CREATION",
-  //   image: person_project,
-  //   project_content: [
-  //     {
-  //       title: "Autoscaling Image Classifier using AWS",
-  //       image: project2,
-  //     },
-  //     {
-  //       title: "Chest X-Ray Analysis for Pneumonia Detection",
-  //       image: project3,
-  //     },
-  //     {
-  //       title: "HOMTEL (Hostel Information Portal)",
-  //       image: project2,
-  //     },
-  //   ],
-  // },
+  Projects: {
+    title: "Projects",
+    subtitle: "MY CREATION",
+    image: person_project,
+    project_content: [
+      {
+        title: "Autoscaling Image Classifier using AWS",
+        image: project2,
+      },
+      {
+        title: "Chest X-Ray Analysis for Pneumonia Detection",
+        image: project3,
+      },
+      {
+        title: "HOMTEL (Hostel Information Portal)",
+        image: project2,
+      },
+    ],
+  },
   Testimonials: {
     title: "Testimonials",
     subtitle: "MY CLIENT REVIEWS",
